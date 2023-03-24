@@ -1,3 +1,3 @@
 ### Oi 👋
 
-Estudo programação há pouquíssimo tempo. No momento estou passeando por todas as áreas desse mundo ainda novo para mim.
+Estudo programação há pouquíssimo tempo. Estou com foco em Java.
