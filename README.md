@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
- Sou formada em História licenciatura, com especialização em 'tecnologia, comunicação e técnicas de ensino'. Atuei como professora da educação básica por 4 anos, onde desenvolvi algumas soft skills importantes, como comunicação, pensamento crítico e empatia. Porém, tenho fascínio pela tecnologia, principlamente a capacidade da internet de conectar pessoas, ideias, conhecimentos, o que me levou a querer mudar de carreira e estudar programação. E aqui estou, na busca pela minha primeira oportunidade na área, atualmente faço faculdade de ADS e participo do [programa descodificadas](https://descodificadas.com.br/).
+ Sou formada em História licenciatura, com especialização em 'tecnologia, comunicação e técnicas de ensino'. Atuei como professora da educação básica por 4 anos, onde desenvolvi algumas soft skills importantes, como comunicação, pensamento crítico e empatia. Porém, tenho fascínio pela tecnologia, principalmente a capacidade da internet de conectar pessoas, ideias, conhecimentos, o que me levou a querer mudar de carreira e estudar programação. E aqui estou, na busca pela minha primeira oportunidade na área, atualmente faço faculdade de ADS e participo do [programa descodificadas](https://descodificadas.com.br/).
 
 ## Interesses
 
