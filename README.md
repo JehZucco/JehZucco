@@ -14,7 +14,7 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-Meu principal interesse é desenvolvimento web, pois é um dos principais meios de conecção entre as pessoas. Além disso, amo estudar lógica de programação e estrutura de dados com java.
+Meu principal interesse é desenvolvimento web, pois é um dos principais meios de conexão entre as pessoas. Além disso, amo estudar lógica de programação e estrutura de dados com java.
 
 ## Conecte-se comigo 
 
